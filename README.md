@@ -3,12 +3,16 @@
 This project demonstrates how to create an animated 3D torus (or donut) that rotates and is displayed in the terminal using ASCII characters.
 The animation is achieved by projecting a 3D shape onto a 2D plane and simulating lighting to create the illusion of depth and rotation.
 
+
+https://github.com/user-attachments/assets/04126102-cd2a-4a6a-9945-3023bb76fe0c
+
+
 ## Installation
 
 1. Clone this repository:
 
    ```sh
-   git https://github.com/ZK1569/Torus.git
+   git clone https://github.com/ZK1569/Torus.git
    cd Torus
    ```
 
