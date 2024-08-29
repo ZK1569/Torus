@@ -3,6 +3,8 @@
 This project demonstrates how to create an animated 3D torus (or donut) that rotates and is displayed in the terminal using ASCII characters.
 The animation is achieved by projecting a 3D shape onto a 2D plane and simulating lighting to create the illusion of depth and rotation.
 
+Here's the article on how to make the Torus : [a1k0n's article](https://www.a1k0n.net/2011/07/20/donut-math.html)
+
 
 https://github.com/user-attachments/assets/04126102-cd2a-4a6a-9945-3023bb76fe0c
 
@@ -29,7 +31,7 @@ The torus will start rotating and be displayed in ASCII characters directly in y
 
 ## How It Works
 
-The project is based on the mathematical principles outlined in Andy Sloane's article. The core idea is to project a 3D torus onto a 2D plane and simulate lighting based on the angle of the surface relative to a light source.
+The project is based on the mathematical principles outlined in [a1k0n's article](https://www.a1k0n.net/2011/07/20/donut-math.html). The core idea is to project a 3D torus onto a 2D plane and simulate lighting based on the angle of the surface relative to a light source.
 
 The steps include:
 
